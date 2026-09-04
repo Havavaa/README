@@ -23,6 +23,12 @@
 | studying        | Computers    |
 | school          | Food         |
 | going out       | My friends   |
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
 
 ## Funfact about me
 #### this is my favourite game at all times:
