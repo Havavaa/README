@@ -19,15 +19,11 @@
 
 
 ### What I hate and Like:
-| Hate            | Like         |
-| studying        | Computers    |
-| school          | Food         |
-| going out       | My friends   |
-| Left columns  | Right columns |
+| Hate          | Like          |
 | ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+| Studying      | Eating        |
+| School        | Gaming        |
+| going out     | sleeping      |
 
 
 ## Funfact about me
