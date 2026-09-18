@@ -13,7 +13,9 @@
 
 ## I am trying to learn😇
 __-programming__
+
 __-coding__
+
 *-making 2d games😉*
 
 
