@@ -6,10 +6,10 @@
 
 ## My hobbys are:
 
-#### -Gaming 😭
-#### -watching anime :P
-#### - batminton
-#### - sleeping 
+* Gaming 😭
+* watching anime :P
+*  batminton
+* sleeping 
 
 ## I am trying to learn😇
 ##### - programming
