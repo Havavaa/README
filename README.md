@@ -28,4 +28,4 @@
 
 ## Funfact about me
 #### this is my favourite game at all times:
-https://store.steampowered.com/app/420530/OneShot/?l=dutch&cc=us
+![niko oneshot](/https://www.pinterest.com/pin/20195898326914318/"oneshot niko")
