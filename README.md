@@ -28,4 +28,4 @@
 
 ## Funfact about me
 #### this is my favourite game at all times:
-![niko oneshot](/https://www.pinterest.com/pin/20195898326914318/"oneshot niko")
+![niko oneshot](/https://www.pinterest.com/pin/20195898326914318/)
