@@ -14,7 +14,7 @@
 ## I am trying to learn😇
 ##### - programming
 #####  - coding
-**making 2d games😉**
+*-making 2d games😉*
 
 
 
