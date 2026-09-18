@@ -12,8 +12,8 @@
 * sleeping 
 
 ## I am trying to learn😇
-##### - programming
-#####  - coding
+__-programming__
+__-coding__
 *-making 2d games😉*
 
 
