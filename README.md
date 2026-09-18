@@ -28,4 +28,4 @@
 
 ## Funfact about me
 #### this is my favourite game at all times:
-![niko oneshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFK_UidZT_bt08Ww4ga2ETvzyRIYIT5d6fIKMeLJgXNw&s/)
+![niko oneshot](https://i.postimg.cc/7hVJRJx3/Niko-Oneshot.jpg/)
