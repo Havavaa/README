@@ -14,7 +14,7 @@
 ## I am trying to learn😇
 ##### - programming
 #####  - coding
-**- making 2d games😉**
+**making 2d games😉**
 
 
 
@@ -29,3 +29,4 @@
 ## Funfact about me
 #### this is my favourite game at all times:
 [![One-Shot.png](https://i.postimg.cc/SNHmhNJn/One-Shot.png)](https://en.wikipedia.org/wiki/OneShot)
+
